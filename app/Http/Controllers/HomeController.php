@@ -13,7 +13,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-//        $this->middleware('auth');
+//        $this->middleware('auth')->except(['index','details']);
     }
 
     /**
@@ -26,8 +26,6 @@ class HomeController extends Controller
         return view('index');
     }
 
-<<<<<<< Updated upstream
-=======
     public function details()
     {
         $result = [
@@ -53,5 +51,4 @@ class HomeController extends Controller
         
         return view('details')->with(['result'=>$result]);
     }
->>>>>>> Stashed changes
 }
