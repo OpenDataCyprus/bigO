@@ -26,4 +26,32 @@ class HomeController extends Controller
         return view('index');
     }
 
+<<<<<<< Updated upstream
+=======
+    public function details()
+    {
+        $result = [
+            [
+                'title'=>'Title 1',
+
+            ],
+            [
+                'title'=>'Title 1',
+
+            ],
+               [
+                'title'=>'Title 1',
+
+            ],
+               [
+                'title'=>'Title 1',
+
+            ],
+        ];
+
+        $result = collect($result);
+        
+        return view('details')->with(['result'=>$result]);
+    }
+>>>>>>> Stashed changes
 }
