@@ -1,0 +1,80 @@
+{
+ "categories": [
+  {
+   "name": "Development",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Employment",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Geospatial Data",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Agriculture / Livestock / Fisheries",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Public Tenders",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Justice / Public Order",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Education",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Energy",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Science, Technology & Innovation",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Enterprises",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Society",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Shipping",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Economy",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Environment",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Citizens & Public Life",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Culture / Sports",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Transport /Telecommunications",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Tourism",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  },
+  {
+   "name": "Health",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/AllDatasets_en/AllDatasets_en?OpenForm&q=&p=1&w=&t=&s=ShowAllDatasets&L=E&e=&i=1#"
+  }
+ ]
+}

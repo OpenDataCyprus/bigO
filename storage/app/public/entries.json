@@ -1,0 +1,668 @@
+{
+ "entries": [
+  {
+   "name": "Κατάλογος Εγκεκριμένων Ιδιωτικών Γραφείων Εξεύρεσης Εργασίας",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/4DC149BE7585B29EC225801B003AC8BC?OpenDocument",
+   "category": "Απασχόληση",
+   "tags": [
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "HTML"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/4DC149BE7585B29EC225801B003AC8BC?OpenDocument",
+   "description": "Κατάλογος Εγκεκριμένων Ιδιωτικών Γραφείων Εξεύρεσης Εργασίας στον οποίο περιλαμβάνονται στοιχεία επικοινωνίας των εν λόγω Γραφεςίων καθώς και των υπευθύνων τους",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://www.mlsi.gov.cy/mlsi/dl/dl.nsf/dmlissue_gr/dmlissue_gr?OpenDocument"
+    },
+    {
+     "name": "Open Dataset File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/4DC149BE7585B29EC225801B003AC8BC/$file/%CE%9A%CE%91%CE%A4%CE%91%CE%9B%CE%9F%CE%93%CE%9F%CE%99%20%20%CE%99%CE%93%CE%95%CE%95%2012-2015.doc"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1502 - ΤΜΗΜΑ ΕΡΓΑΣΙΑΣ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Μη Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "26/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "See Linked Inspire Site"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Ετήσια"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "26/01/2016 - 26/01/2016"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Σούλλα Αλεξάνδρου τηλ. 22400836"
+    },
+    {
+     "key": "e-mail",
+     "value": "salexandrou@dl.mlsi.gov.cy"
+    },
+    {
+     "key": "Σύνδεσμος",
+     "value": "Πατήστε εδώ"
+    }
+   ]
+  },
+  {
+   "name": "Στρατηγικό Σχέδιο Υπουργείου Οικονομικών 2016 - 2018",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/1A898F403FDF65E7C225801B003AC8B1?OpenDocument",
+   "category": "Οικονομία",
+   "tags": [
+    {
+     "name": "PDF"
+    },
+    {
+     "name": "PDF"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/1A898F403FDF65E7C225801B003AC8B1?OpenDocument",
+   "description": "Σχεδιασμός Υπουργείου Οικονομικών για την τριετία 2016 - 2018",
+   "links": [
+    {
+     "name": "Open Dataset PDF File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/1A898F403FDF65E7C225801B003AC8B1/$file/%CE%A3%CF%84%CF%81%CE%B1%CF%84%CE%B7%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%20%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%B5%CE%AF%CE%BF%CF%85%20%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CF%8E%CE%BD%202016%20-%202018.pdf"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1801 - ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ (ΔΙΟΙΚΗΣΗ)"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "28/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/2016 - 31/12/2018"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Χρυσόστομος Παπαγιάννης"
+    },
+    {
+     "key": "e-mail",
+     "value": "Cpapagiannis@mof.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "Ο Περί Εκρηκτικών Υλών Νόμος και Κανονισμοί",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/57F7CCEFCD9DA7D2C225801B003AC876?OpenDocument",
+   "category": "Περιβάλλον",
+   "tags": [
+    {
+     "name": "PDF"
+    },
+    {
+     "name": "PDF"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/57F7CCEFCD9DA7D2C225801B003AC876?OpenDocument",
+   "description": "Στην σελίδα αυτή θα βρείτε την κύρια νομοθεσία της Δημοκρατίας που αφορά τις Εκρηκτικές Ύλες.",
+   "links": [
+    {
+     "name": "Open Dataset PDF File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/57F7CCEFCD9DA7D2C225801B003AC876/$file/%CE%9F%20%CF%80%CE%B5%CF%81%CE%AF%20%CE%95%CE%BA%CF%81%CE%B7%CE%BA%CF%84%CE%B9%CE%BA%CF%8E%CE%BD%20%CE%A5%CE%BB%CF%8E%CE%BD%20%CE%9D%CF%8C%CE%BC%CE%BF%CF%82%20%CE%9A%CE%B5%CF%86.%2054%20%CE%BA%CE%B1%CE%B9%20%CE%9D%CF%8C%CE%BC%CE%BF%CE%B9%20%CF%84%CE%BF%CF%85%201970%20%CE%AD%CF%89%CF%82%202013.pdf"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1210 - ΥΠΗΡΕΣΙΑ ΜΕΤΑΛΛΕΙΩΝ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "08/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "08/01/2016 - 08/01/2016"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": ""
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Υπηρεσία Μεταλλείων - Ρομπέρτο Αννούντσι"
+    },
+    {
+     "key": "e-mail",
+     "value": "rannunzi@mines.moa.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "Ετήσια Έκθεση Γενικού Ελεγκτή της Δημοκρατίας για το έτος 2014",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/224A8F7D508D26E8C225801B003AC885?OpenDocument",
+   "category": "Οικονομία",
+   "tags": [
+    {
+     "name": "HTMLPDF"
+    },
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "PDF"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/224A8F7D508D26E8C225801B003AC885?OpenDocument",
+   "description": "Περιέχει τα κυρίοτερα ευρήματα των ελέγχων που έγιναν στους ελεγχόμενους οργανισμούς (Κυβερνητικά Τμήματα, Νομικά Πρόσωπα Δημοσίου Δικαίου, Αρχές Τοπικής Αυτοδιοίκησης) κατά τη διάρκεια του έτους",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://www.audit.gov.cy/audit/audit.nsf/All/1F37B9185963C49BC2257F140029EC55?OpenDocument"
+    },
+    {
+     "name": "Open Dataset PDF File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/224A8F7D508D26E8C225801B003AC885/$file/%CE%95%CE%A4%CE%97%CE%A3%CE%99%CE%91%20%CE%95%CE%9A%CE%98%CE%95%CE%A3%CE%97%20%CE%93%CE%95%CE%9D%CE%99%CE%9A%CE%9F%CE%A5%20%CE%95%CE%9B%CE%95%CE%93%CE%9A%CE%A4%CE%97%202014.pdf"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "0202 - ΕΛΕΓΚΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "31/12/2015"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "See Linked Inspire Site"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/2014 - 31/12/2014"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Χρίστος Μάος"
+    },
+    {
+     "key": "e-mail",
+     "value": "cao@audit.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "ΕΝΙΑΙΟ ΘΕΜΑΤΙΚΟ ΣΥΣΤΗΜΑ ΤΑΞΙΝΟΜΗΣΗΣ ΣΤΗ ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/333D2800E5735870C225801B003AC8BA?OpenDocument",
+   "category": "Επιστήμη, Τεχνολογία & Καινοτομία",
+   "tags": [
+    {
+     "name": "PDF"
+    },
+    {
+     "name": "PDF"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/333D2800E5735870C225801B003AC8BA?OpenDocument",
+   "description": "ΕΝΙΑΙΟ ΘΕΜΑΤΙΚΟ ΣΥΣΤΗΜΑ ΤΑΞΙΝΟΜΗΣΗΣ ΣΤΗ ΔΗΜΟΣΙΑ ΥΠΗΡΕΣΙΑ- ΘΕΜΑΤΙΚΕΣ ΟΜΑΔΕΣ ΚΑΙ ΘΕΜΑΤΙΚΕΣ ΚΕΦΑΛΕΣ",
+   "links": [
+    {
+     "name": "Open Dataset PDF File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/333D2800E5735870C225801B003AC8BA/$file/%CE%98%CE%95%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%95%CE%A3%20%CE%9F%CE%9C%CE%91%CE%94%CE%95%CE%A3%20-%20%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%95%CE%A3%20updated%2004.02.2016.pdf"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1807 - ΤΜΗΜΑ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΡΟΣΩΠΙΚΟΥ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "12/02/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "12/02/2016 - Σήμερα"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Νίκη Χριστοδούλου"
+    },
+    {
+     "key": "e-mail",
+     "value": "nchristodoulou@papd.mof.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "ΜΕΤΑΚΙΝΗΣΕΙΣ / ΜΕΤΑΘΕΣΕΙΣ / ΑΠΟΣΠΑΣΕΙΣ ΕΝΑΛΛΑΞΙΜΟΥ ΠΡΟΣΩΠΙΚΟΥ 2010-2015",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/3FC3F63BC0AC4830C225801B003AC8B8?OpenDocument",
+   "category": "Απασχόληση",
+   "tags": [
+    {
+     "name": "XLSX"
+    },
+    {
+     "name": "XLSX"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/3FC3F63BC0AC4830C225801B003AC8B8?OpenDocument",
+   "description": "Μετακινήσεις/ Μεταθέσεις/ Αποσπάσεις Εναλλάξιμου Προσωπικού,(Γενικού Διοικητικού, Γενικού Γραμματειακού και Γενικού Βοηθητικού Προσωπικού στα διάφορα Υπουργεία / Τμήματα /Ανεξάρτητες Υπηρεσίες της Δημόσιας Υπηρεσίας, για τα έτη 2010-2015",
+   "links": [
+    {
+     "name": "Open Dataset XLSX File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/3FC3F63BC0AC4830C225801B003AC8B8/$file/%CE%9C%CE%B5%CF%84%CE%B1%CE%BA%CE%B9%CE%BD%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%9C%CE%B5%CF%84%CE%B1%CE%B8%CE%AD%CF%83%CE%B5%CE%B9%CF%82-%CE%91%CF%80%CE%BF%CF%83%CF%80%CE%AC%CF%83%CE%B5%CE%B9%CF%82%20%20%CE%95%CE%BD%CE%B1%CE%BB%CE%BB%CE%AC%CE%BE%CE%B9%CE%BC%CE%BF%CF%85%20%CE%A0%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%BF%CF%8D%202010-2015.xlsx"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1807 - ΤΜΗΜΑ ΔΗΜΟΣΙΑΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΡΟΣΩΠΙΚΟΥ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "11/02/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Ετήσια"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/2010 - 31/12/2015"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Δημήτρης Μιχαήλ"
+    },
+    {
+     "key": "e-mail",
+     "value": "dmichail@papd.mof.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "Τμήμα Φορολογίας - Συχνές Ερωτήσεις (FAQs)",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/44C159EA50AB8079C225801B003AC89B?OpenDocument",
+   "category": "Πολίτες & Δημόσια Ζωή",
+   "tags": [
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "HTML"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/44C159EA50AB8079C225801B003AC89B?OpenDocument",
+   "description": "Συχνές Ερωτήσεις σε θέματα που αφορούν τις νομοθεσίες που εφαρμόζει το Τμήμα Φορολογίας και διαδικασίες που ακολουθούνται",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://www.mof.gov.cy/mof/TaxDep.nsf/faq_gr/faq_gr?OpenDocument"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1804 - ΤΜΗΜΑ ΦΟΡΟΛΟΓΙΑΣ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Μη Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "27/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "See Linked Inspire Site"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/2000 - Σήμερα"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Μονάδα Εξυπηρέτησης και Εκπαίδευσης Φορολογουμένων"
+    },
+    {
+     "key": "e-mail",
+     "value": "tps@tax.mof.gov.cy"
+    },
+    {
+     "key": "Σύνδεσμος",
+     "value": "Πατήστε εδώ"
+    }
+   ]
+  },
+  {
+   "name": "Ετήσια Έκθεση Γενικού Ελεγκτή της Δημοκρατίας για το έτος 2008",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/65F7B860258E4338C225801B003AC887?OpenDocument",
+   "category": "Οικονομία",
+   "tags": [
+    {
+     "name": "HTMLPDF"
+    },
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "PDF"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/65F7B860258E4338C225801B003AC887?OpenDocument",
+   "description": "Περιέχει τα κυρίοτερα ευρήματα των ελέγχων που έγιναν στους ελεγχόμενους οργανισμούς (Κυβερνητικά Τμήματα, Νομικά Πρόσωπα Δημοσίου Δικαίου, Αρχές Τοπικής Αυτοδιοίκησης) κατά τη διάρκεια του έτους",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://www.audit.gov.cy/audit/audit.nsf/All/80BB35D686873E60C225768200335EAB?OpenDocument"
+    },
+    {
+     "name": "Open Dataset PDF File",
+     "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/65F7B860258E4338C225801B003AC887/$file/%CE%95%CF%84%CE%AE%CF%83%CE%B9%CE%B1%20%CE%88%CE%BA%CE%B8%CE%B5%CF%83%CE%B7%202008.pdf"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "0202 - ΕΛΕΓΚΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "31/12/2015"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "See Linked Inspire Site"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/2008 - 31/12/2008"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Χρίστος Μάος"
+    },
+    {
+     "key": "e-mail",
+     "value": "cao@audit.gov.cy"
+    }
+   ]
+  },
+  {
+   "name": "Εκστρατείες της Αστυνομίας",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/3381BE425688AFF3C225801B003AC8B6?OpenDocument",
+   "category": "Δικαιοσύνη/Δημόσια Τάξη",
+   "tags": [
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "HTML"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/3381BE425688AFF3C225801B003AC8B6?OpenDocument",
+   "description": "Ανακοινώσεις για Εκστρατεία και Αποτελέσματα Εκστρατειών της Αστυνομίας",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://www.police.gov.cy/police/police.nsf/dmlcampaigns_gr/dmlcampaigns_gr?OpenDocument"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1303 - ΑΣΤΥΝΟΜΙΑ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "01/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "31/12/2015 - Σήμερα"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": ""
+    },
+    {
+     "key": "e-mail",
+     "value": "pressoffice@police.gov.cy"
+    },
+    {
+     "key": "Σύνδεσμος",
+     "value": "Πατήστε εδώ"
+    }
+   ]
+  },
+  {
+   "name": "Ινστιτούτο Γεωργικών Ερευνών - Ανακοινώσεις σε Συνέδρια",
+   "url": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/8CA59584D884E161C225801B003AC895?OpenDocument",
+   "category": "Γεωργία/Κτηνοτροφία/Αλιεία",
+   "tags": [
+    {
+     "name": "HTML"
+    },
+    {
+     "name": "HTML"
+    }
+   ],
+   "reference": "http://www.data.gov.cy/mof/papd/DataPortal/dataportal.nsf/All/8CA59584D884E161C225801B003AC895?OpenDocument",
+   "description": "Oι Ανακοινώσεις σε Συνέδρια αφορούν ελληνόφωνες δημοσιεύσεις του Ινστιτούτου Γεωργικών Ερευνών στις οποίες παραθέτουν πληροφορίες για τις τρέχουσες ερευνητικές δραστηριότητες του Ινστιτούτου. Οι δημοσιεύσεις εξυπηρετούν τόσο τους γεωπόνους των γεωργικών εφαρμογών, όσο και τους παραγωγούς, με στόχο την άμεση και εύκολη παροχή πληροφοριών και την προσφορά κάθε δυνατής βοήθειας και εξυπηρέτησης στα πλαίσια των αρμοδιοτήτων μας.",
+   "links": [
+    {
+     "name": "Open Dataset HTML File",
+     "url": "http://news.ari.gov.cy/pubs/pub_cpgr.html"
+    }
+   ],
+   "meta": [
+    {
+     "key": "Πηγή Ενημέρωσης",
+     "value": "1211 - ΙΝΣΤΙΤΟΥΤΟ ΓΕΩΡΓΙΚΩΝ ΕΡΕΥΝΩΝ"
+    },
+    {
+     "key": "Χρέωση",
+     "value": "Καμία Χρέωση"
+    },
+    {
+     "key": "Επίπεδο Επεξεργασίας",
+     "value": "Επεξεργασμένα Δεδομένα"
+    },
+    {
+     "key": "Προστέθηκε στο data.gov.cy",
+     "value": "26/01/2016"
+    },
+    {
+     "key": "Άδεια Χρήσης",
+     "value": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+    },
+    {
+     "key": "Συχνότητα Επικαιροποίησης",
+     "value": "Περιοδική"
+    },
+    {
+     "key": "Περίοδος Αναφοράς",
+     "value": "01/01/1997 - 31/12/2009"
+    },
+    {
+     "key": "Γεωγραφική Κάλυψη",
+     "value": "Κύπρος"
+    },
+    {
+     "key": "Σύνδεσμος Επικοινωνίας",
+     "value": "Γιώργος Αδαμίδης"
+    },
+    {
+     "key": "e-mail",
+     "value": "gadamides@ari.gov.cy"
+    },
+    {
+     "key": "Σύνδεσμος",
+     "value": "Πατήστε εδώ"
+    }
+   ]
+  }
+ ]
+}
