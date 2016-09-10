@@ -1,0 +1,48 @@
+{
+	"title": "Μικροαδικήματα κατά Κατηγορία αδικημάτων και Επαρχία για το πρώτο εξάμηνο του 2016", //A1
+	"data": [{
+		"name": "Adikimata Enantion kinis galinis", //A4
+		"totals": {
+			"K": 248, //T4
+			"E": 244, //U4
+			"Percentage": "98.4%" //V4
+		},
+		"cities": [{
+				"name": "Nicosia", //B2
+				"K": 89, //B4
+				"E": 88, //C4
+				"percentage": "98.9%" //D4
+			}, {
+				"name": "Limassol", //E2
+				"K": 89, //E4
+				"E": 88, //F4
+				"percentage": "98.9%" //G4
+			}
+
+		]
+	}, {
+		"name": "Adikimata Enantion tis askisis nomimis eksousias", //A5
+		"totals": {
+			"K": 248, //T5
+			"E": 244, //U5
+			"Percentage": "98.4%" //V5
+		},
+		"cities": [{
+				"name": "Nicosia", //B2
+				"K": 89, //B5
+				"E": 88, //C5
+				"percentage": "98.9%" //D5
+			}, {
+				"name": "Limassol", //E2
+				"K": 89, //E5
+				"E": 88, //F5
+				"percentage": "98.9%" // G5
+			}
+
+		]
+	}],
+	"meta":{
+		"title": "A1",
+		""
+	}
+}
