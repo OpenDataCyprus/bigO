@@ -35,4 +35,10 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
+    'github' => [
+        'client_id' => 'aea89b024a7c57cdda09',
+        'client_secret' => '50928a39c4acce5b15eb4ee7a7f7bf27b88df2aa',
+        'redirect' => 'http://82.196.12.250/github/login',
+    ],
+
 ];

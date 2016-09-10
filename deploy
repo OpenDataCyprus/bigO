@@ -1,0 +1,5 @@
+!# /bin/bash
+
+git add .
+git commit -m "Deploying"
+wget https://forge.laravel.com/servers/97300/sites/222579/deploy/http?token=CeLpBCR6lrLELUzVjGj8DM5OWmMhqaYH4XTNcv3m

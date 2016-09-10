@@ -12,7 +12,6 @@
 
     <!-- Styles -->
     <link href="/css/app.css" rel="stylesheet">
-
     <!-- Scripts -->
     <script>
         window.Laravel = <?php echo json_encode([
@@ -81,5 +80,6 @@
 
     <!-- Scripts -->
     <script src="/js/app.js"></script>
+
 </body>
 </html>
