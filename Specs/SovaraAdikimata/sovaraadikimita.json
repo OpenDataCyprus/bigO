@@ -1,0 +1,48 @@
+{
+	"title": "Σοβαρό Έγκλημα για το πρώτο εξάμηνο του 2016", //A1
+	"data": [{
+		"name": "Fonoi", //A4
+		"totals": {
+			"K": 5, //T4
+			"E": 4, //U4
+			"Percentage": "80.00%" //V4
+		},
+		"cities": [{
+				"name": "Nicosia", //B2
+				"K": 0, //B4
+				"E": 0, //C4
+				"percentage": "00.00%" //D4
+			}, {
+				"name": "Limassol", //E2
+				"K": 2, //E4
+				"E": 2, //F4
+				"percentage": "100%" //G4
+			}
+
+		]
+	}, {
+		"name": "Apopires Fonou", //A5
+		"totals": {
+			"K": 5, //T5
+			"E": 4, //U5
+			"Percentage": "80.00%" //V5
+		},
+		"cities": [{
+				"name": "Nicosia", //B2
+				"K": 3, //B5
+				"E": 2, //C5
+				"percentage": "66.67%" //D5
+			}, {
+				"name": "Limassol", //E2
+				"K": 2, //E5
+				"E": 2, //F5
+				"percentage": "100.00%" // G5
+			}
+
+		]
+	}],
+	"meta":{
+		"title": "A1",
+		""
+	}
+}
