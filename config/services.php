@@ -36,9 +36,9 @@ return [
     ],
 
     'github' => [
-        'client_id' => 'b53d36399c26528f3508',
-        'client_secret' => '9d077aaf4a744f7aa6377d9ba99fa69372f2af64',
-        'redirect' => 'http://hack.dev/auth/github/callback',
+        'client_id' => env('GITHUB_CLIENT_ID','b53d36399c26528f3508'),
+        'client_secret' => env('GITHUB_SECRET','9d077aaf4a744f7aa6377d9ba99fa69372f2af64'),
+        'redirect' => env('GITHUB_CALLBACK','http://hack.dev/auth/github/callback'),
     ],
 
 ];
