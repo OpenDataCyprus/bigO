@@ -2,4 +2,5 @@
 
 git add .
 git commit -m "Deploying"
-wget https://forge.laravel.com/servers/97300/sites/222579/deploy/http?token=CeLpBCR6lrLELUzVjGj8DM5OWmMhqaYH4XTNcv3m
+sleep 10s
+curl https://forge.laravel.com/servers/97300/sites/222579/deploy/http?token=CeLpBCR6lrLELUzVjGj8DM5OWmMhqaYH4XTNcv3m
