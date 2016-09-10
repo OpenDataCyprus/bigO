@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\User;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -27,9 +28,13 @@ class AuthController extends Controller
     public function handleProviderCallback()
     {
         $user = Socialite::driver('github')->user();
+//        dd($user);
+        $auth_user = User::firstOrCreate(['email'=>$user->email,'name'=>$user->nickname]);
 
-        dd($user);
-        // $user->token;
-    }
+        if ($auth_user->exists){
+            auth()->login($auth_user);
+        }
+        return redirect('/home');
+     }
 
 }

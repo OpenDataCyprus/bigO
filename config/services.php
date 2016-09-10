@@ -36,9 +36,9 @@ return [
     ],
 
     'github' => [
-        'client_id' => 'aea89b024a7c57cdda09',
-        'client_secret' => '50928a39c4acce5b15eb4ee7a7f7bf27b88df2aa',
-        'redirect' => 'http://82.196.12.250/github/login',
+        'client_id' => 'b53d36399c26528f3508',
+        'client_secret' => '9d077aaf4a744f7aa6377d9ba99fa69372f2af64',
+        'redirect' => 'http://hack.dev/auth/github/callback',
     ],
 
 ];

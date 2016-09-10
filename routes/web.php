@@ -11,9 +11,12 @@
 |
 */
 
+/* Authorize with github */
 
+Route::get('/auth/github','AuthController@redirectToProvider');
+Route::get('/auth/github/callback','AuthController@handleProviderCallback');
 
 Route::get('/','HomeController@index');
 Auth::routes();
 
-Route::get('/home', 'HomeController@index');
+Route::get('/home', 'DashboardController@index');

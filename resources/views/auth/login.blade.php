@@ -53,9 +53,9 @@
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
-                                <a type="submit" class="btn btn-primary">
+                                <a href="/auth/github" class="btn btn-primary">
                                     <i class="fa fa-github"></i>
-                                    Login
+                                    Login with Github
                                 </a>
 
                                 <a class="btn btn-link" href="{{ url('/password/reset') }}">
