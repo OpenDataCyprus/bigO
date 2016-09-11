@@ -151,7 +151,7 @@
 @endpush
 
 <div class="nav-side-menu">
-  <div class="brand">Brand Logo</div>
+  <div class="brand">big O</div>
   <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
   
   <div class="menu-list">
@@ -163,8 +163,8 @@
         </a>
       </li>
 
-      <li  data-toggle="collapse" data-target="#products" class="collapsed active">
-        <a href="#"><i class="fa fa-gift fa-lg"></i> UI Elements <span class="arrow"></span></a>
+      <li  data-toggle="collapse" data-target="/environment" class="collapsed active">
+        <a href="#"><i class="fa fa-gift fa-lg"></i> Environment <span class="arrow"></span></a>
       </li>
       <ul class="sub-menu collapse" id="products">
         <li class="active"><a href="#">CSS3 Animation</a></li>
