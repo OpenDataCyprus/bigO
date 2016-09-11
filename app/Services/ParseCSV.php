@@ -18,9 +18,10 @@ class ParseCSV
 		$csv= file_get_contents($file);
 		 
 		$Data = str_getcsv($csv, "\n"); //parse the rows
-foreach($Data as &$Row) $Row = str_getcsv($Row, ";");
+        foreach($Data as &$Row) $Row = str_getcsv($Row, ";");
  
-print_r($Row);
+        print_r($Row);
+
 	}
 
 
