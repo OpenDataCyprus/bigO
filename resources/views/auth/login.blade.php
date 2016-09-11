@@ -3,9 +3,9 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2" style="padding-top: 150px;">
+        <div class="col-md-8 col-md-offset-2" style="padding-top: 100px;">
+            <h3 class="text-center">Login</h3>
             <div class="panel panel-default" >
-                <div class="panel-heading">Login</div>
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/login') }}">
                         {{ csrf_field() }}
@@ -53,6 +53,10 @@
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
+                                <a href="/auth/github" class="btn btn-primary">
+                                    <i class="fa fa-github"></i>
+                                    Login with Github
+                                </a>
 
                                 <a class="btn btn-link" href="{{ url('/password/reset') }}">
                                     Forgot Your Password?

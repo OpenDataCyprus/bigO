@@ -13,7 +13,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-//        $this->middleware('auth');
+//        $this->middleware('auth')->except(['index','details']);
     }
 
     /**
@@ -25,8 +25,7 @@ class HomeController extends Controller
     {
         return view('index');
     }
-
-    
+   
 
 
     public function lists()
@@ -58,11 +57,10 @@ class HomeController extends Controller
         return view('lists')->with(['result'=>$result]);
     }
 
+
     public function weather()
     {
         return view('weather');
     }
-
-
 
 }
