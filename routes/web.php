@@ -26,5 +26,6 @@ Route::get('/details', 'HomeController@details');
 
 Route::get('/home', 'DashboardController@index');
 
-Route::get('/environment', 'HomeController@environment');
-Route::get('/environment1', 'HomeController@environment1');
+Route::get('/environment/{link?}', 'HomeController@environment');
+Route::get('/environment1/{link?}', 'HomeController@environment1');
+Route::get('/environment0', 'HomeController@environment0');
