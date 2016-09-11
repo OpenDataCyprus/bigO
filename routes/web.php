@@ -19,6 +19,9 @@ Route::get('/auth/github/callback','AuthController@handleProviderCallback');
 Route::get('/','HomeController@index');
 Auth::routes();
 
+Route::get('/lists', 'HomeController@lists');
+Route::get('/weather', 'HomeController@weather');
+
 Route::get('/details', 'HomeController@details');
 
 Route::get('/home', 'DashboardController@index');

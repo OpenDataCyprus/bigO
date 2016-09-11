@@ -1,31 +1,54 @@
 {
 	"title": "Μικροαδικήματα κατά Κατηγορία αδικημάτων και Επαρχία για το πρώτο εξάμηνο του 2016",
 	"data": [{
-		"name": "Adikimata Enantion kinis galinis",
+		"name": "Αδικήματα εναντίον της Κοινής Γαλήνης",
 		"totals": {
 			"K": 248,
 			"E": 244,
-			"Percentage": "98.4%"
+			"percentage": "98.4%"
 		},
 		"cities": [{
-				"name": "Nicosia",
+				"name": "Λευκωσία",
 				"K": 89,
 				"E": 88,
 				"percentage": "98.9%"
 			}, {
-				"name": "Limassol",
-				"K": 89,
-				"E": 88,
-				"percentage": "98.9%"
+				"name": "Λεμεσός",
+				"K": 50,
+				"E": 49,
+				"percentage": "98.0%"
 			}
-
+			, {
+				"name": "Αμμόχωστος",
+				"K": 30,
+				"E": 29,
+				"percentage": "96.7%"
+			},
+			 {
+				"name": "Πάφος",
+				"K": 29,
+				"E": 29,
+				"percentage": "100.0%"
+			}
+			, {
+				"name": "Λάρνακα",
+				"K": 45,
+				"E": 44,
+				"percentage": "97.8%"
+			}
+			, {
+				"name": "Μόρφου",
+				"K": 5,
+				"E": 5,
+				"percentage": "100.0%"
+			}
 		]
 	}, {
-		"name": "Adikimata Enantion tis askisis nomimis eksousias",
+		"name": "Αδικήματα εναντίον της Άσκησης Νόμιμης Εξουσίας",
 		"totals": {
 			"K": 248,
 			"E": 244,
-			"Percentage": "98.4%"
+			"percentage": "98.4%"
 		},
 		"cities": [{
 				"name": "Nicosia",
