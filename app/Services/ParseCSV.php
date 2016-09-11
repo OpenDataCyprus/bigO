@@ -18,9 +18,29 @@ class ParseCSV
 		$csv= file_get_contents($file);
 		 
 		$Data = str_getcsv($csv, "\n"); //parse the rows
-        foreach($Data as &$Row) $Row = str_getcsv($Row, ";");
+        $art = array("isobariclevel", "temperaturecelsius", "dewpointcelsius", "winddirection","windspeed","geodynamicsheight");
+        $json='{"data": [';
+        
+
+        for ($i=8; $i <count($Data) ; $i++) {
+        	$row = explode(",",$Data[$i]); 
+        	for ($j=0; $j <count($row) ; ) { 
+        	 	$json.='"'.$art[$j].'":"'.$row[$j].'"';
+        	 	$j++;
+        	 	if ($j<count($row)) {
+                    $json.=",";
+                }
+        	 }
+        	 $json.= '}';
+        	 $i++;
+            if ($i<count($Data)) {
+                    $json.=",";
+            }
+        }
+        $json.=']}';
+        // $json=json_encode($Data);
  
-        print_r($Row);
+        return $json;
 
 	}
 
