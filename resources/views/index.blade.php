@@ -8,7 +8,7 @@
 
         <div class="row">
         	<div class="col-md-offset-3 col-md-2" style="margin-top:50px">
-        		<a href="lists" class="btn btn-sq-lg btn-primary btn-block">
+        		<a href="environment" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
                 	Περιβάλλον <br>
             	</a>
