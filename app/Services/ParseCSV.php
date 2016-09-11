@@ -23,7 +23,8 @@ class ParseCSV
         
 
         for ($i=8; $i <count($Data) ; $i++) {
-        	$row = explode(",",$Data[$i]); 
+        	$row = explode(",",$Data[$i]);
+            $json.="{";
         	for ($j=0; $j <count($row) ; ) { 
         	 	$json.='"'.$art[$j].'":"'.$row[$j].'"';
         	 	$j++;

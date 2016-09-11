@@ -16,3 +16,8 @@ use Illuminate\Http\Request;
 Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
+
+
+Route::get('/crimes','CrimesController@all');
+Route::get('/weather','WeatherController@generic');
+Route::get('/weather/city/{city}','WeatherController@genericCity');
