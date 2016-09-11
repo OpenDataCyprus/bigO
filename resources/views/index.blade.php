@@ -16,7 +16,7 @@
         	<div class="col-md-2" style="margin-top:50px">
         		<a href="#" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
-                	Δικαιοσύνη/Δημόσια Τάξη <br> 
+                	Δικαιοσύνη/Δημόσια <br>
             	</a>
         	</div>
         	<div class="col-md-2" style="margin-top:50px">
