@@ -17,4 +17,5 @@ Route::get('/','HomeController@index');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
-Route::get('/details', 'HomeController@details');
+Route::get('/lists', 'HomeController@lists');
+Route::get('/weather', 'HomeController@weather');

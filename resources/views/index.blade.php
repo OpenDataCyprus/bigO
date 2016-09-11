@@ -8,30 +8,26 @@
 
         <div class="row">
         	<div class="col-md-offset-3 col-md-2" style="margin-top:50px">
-        		<a href="#" class="btn btn-sq-lg btn-primary btn-block">
+        		<a href="lists" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
-                	Demo Primary <br>Button
+                	Περιβάλλον <br>
             	</a>
         	</div>
         	<div class="col-md-2" style="margin-top:50px">
         		<a href="#" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
-                	Demo Primary <br>Button
+                	Δικαιοσύνη/Δημόσια Τάξη <br> 
             	</a>
         	</div>
         	<div class="col-md-2" style="margin-top:50px">
         		<a href="#" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
-                	Demo Primary <br>Button
+                	Demo Primary <br>
             	</a>
         	</div>
         </div>
         <div class="row">
-<<<<<<< Updated upstream
-            <div class="col-md-offset-3 col-md-6">
-               This is a test
-            </div>
-=======
+
         	<div class="col-md-offset-3 col-md-2" style="margin-top:50px">
         		<a href="#" class="btn btn-sq-lg btn-primary btn-block">
                 	<i class="fa fa-database fa-3x"></i><br/>
@@ -50,7 +46,6 @@
                 	Demo Primary <br>Button
             	</a>
         	</div>
->>>>>>> Stashed changes
         </div>
     </div>
 
